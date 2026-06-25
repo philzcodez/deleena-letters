@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>You've Got Mail!</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<div class="scene">
+
+
+    <div class="envelope-wrapper" id="wrapper">
+
+
+        <div class="envelope">
+
+
+            <!-- FRONT -->
+
+            <div class="front">
+
+
+                <div class="stamp">
+                    💜
+                </div>
+
+
+                <div class="frontText">
+
+                    <h2>
+                        To: Moy Dorogov
+                    </h2>
+
+
+                    <h2>
+                        From: Your Malysh
+                    </h2>
+
+                </div>
+
+
+
+                <button id="flip">
+                    FLIP ME
+                </button>
+
+
+
+            </div>
+
+
+
+
+
+
+            <!-- BACK -->
+
+            <div class="back">
+
+
+                <div class="flap"></div>
+
+
+                <div class="seal" id="seal">
+
+                    🩵
+
+                </div>
+
+
+
+                <button id="open">
+                    Open Letter
+                </button>
+
+
+            </div>
+
+
+        </div>
+
+
+
+
+        <!-- LETTER -->
+
+
+        <div class="letter" id="letter">
+
+
+            <h1>
+                Moy Dorogov 🩵💜
+            </h1>
+
+
+            <div class="letterNav">
+
+                <button id="prevDay" class="navBtn" aria-label="Previous letter">‹</button>
+
+                <div class="letterDate" id="letterDate"></div>
+
+                <button id="nextDay" class="navBtn" aria-label="Next letter">›</button>
+
+            </div>
+
+
+            <p id="text"></p>
+
+
+        </div>
+
+
+
+    </div>
+
+
+</div>
+
+
+
+<script src="letters.js"></script>
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
