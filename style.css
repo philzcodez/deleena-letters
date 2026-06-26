@@ -659,6 +659,10 @@ button:disabled {
 
         animation:pulse 1.5s infinite;
 
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
 
     }
 
