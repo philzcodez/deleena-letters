@@ -33,7 +33,28 @@ I love you to the edge of the universe and beyond
 (P.S., Are we watching the cat in the hat tonight?)
 
 — Your Malysh`
-  }
+  },
+  {
+    date:"2026-06-26"
+    message: `HELLLLO SAILOR!
+    Today means a brand new day,
+    but it's also another day I get to spend with you in my life
+    
+    I hope you know how happy you make me,
+    how relaxed, how safe, how comfy.
+    
+    I treasure and value you so so SO MUCH,
+    you are my light, my fire, my everything.
+    
+    And you are the person I wanna spend forever with!
+    I love you to the edge of the universe and beyond baby 
+    
+    (P.s. I really really loved the good morning message you sent to me on insta, it made me really really happy)
+    
+    Forever yours,
+    - Your Malysh
+    `
+  },
 ];
 
 /*
