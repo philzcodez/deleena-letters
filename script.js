@@ -1,3 +1,4 @@
+const scrollHint = document.getElementById("scrollHint");
 const wrapper = document.getElementById("wrapper");
 
 const flipBtn = document.getElementById("flip");
@@ -80,9 +81,27 @@ function renderCurrentLetter() {
 }
 
 function openLetter() {
+
   if (letter.classList.contains("showLetter")) return;
+
+
   letter.classList.add("showLetter");
+
+
   renderCurrentLetter();
+
+
+
+  if(window.innerWidth <= 600){
+
+      setTimeout(()=>{
+
+          scrollHint.classList.add("showHint");
+
+      },1200);
+
+  }
+
 }
 
 openBtn.addEventListener("click", openLetter);
@@ -100,4 +119,12 @@ nextBtn.addEventListener("click", () => {
     currentIndex++;
     renderCurrentLetter();
   }
+});
+
+window.addEventListener("scroll", ()=>{
+
+
+    scrollHint.classList.remove("showHint");
+
+
 });
