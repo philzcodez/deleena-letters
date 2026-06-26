@@ -40,11 +40,9 @@ I love you to the edge of the universe and beyond
     Today means a brand new day,
     but it's also another day I get to spend with you in my life
     
-    I hope you know how happy you make me,
-    how relaxed, how safe, how comfy.
+    I hope you know how happy you make me, how relaxed, how safe, how comfy.
     
-    I treasure and value you so so SO MUCH,
-    you are my light, my fire, my everything.
+    I treasure and value you so so SO MUCH, you are my light, my fire, my everything.
     
     And you are the person I wanna spend forever with!
     I love you to the edge of the universe and beyond baby 
