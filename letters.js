@@ -35,7 +35,7 @@ I love you to the edge of the universe and beyond
 — Your Malysh`
   },
   {
-    date:"2026-06-26"
+    date:"2026-06-26",
     message: `HELLLLO SAILOR!
     Today means a brand new day,
     but it's also another day I get to spend with you in my life
@@ -61,7 +61,7 @@ I love you to the edge of the universe and beyond
 Example letter:
 
 {
-    date:"YYYY-MM-DD"
+    date:"YYYY-MM-DD",
     message: `insert message here`
 },
 
