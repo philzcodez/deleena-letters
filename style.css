@@ -390,6 +390,7 @@ button:disabled {
 
 
     position:absolute;
+    z-index: 10;
 
 
     background:white;
@@ -561,13 +562,32 @@ button:disabled {
 
     body {
 
-        align-items:flex-start;
+        min-height:100svh;
 
-        padding-top:80px;
+        align-items:center;
+
+        justify-content:center;
 
         overflow-y:auto;
 
-        background-attachment:fixed;
+        padding:40px 0;
+
+
+    }
+
+
+
+    .scene {
+
+        width:100%;
+
+        min-height:700px;
+
+        display:flex;
+
+        justify-content:center;
+
+        align-items:center;
 
     }
 
@@ -588,9 +608,10 @@ button:disabled {
     .showLetter {
 
 
-        transform:translate(-50%, -180px);
+        transform:translate(-50%, -200px);
 
 
     }
+
 
 }
