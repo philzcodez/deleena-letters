@@ -121,10 +121,10 @@ nextBtn.addEventListener("click", () => {
   }
 });
 
-window.addEventListener("scroll", ()=>{
+// window.addEventListener("scroll", ()=>{
 
 
-    scrollHint.classList.remove("showHint");
+//     scrollHint.classList.remove("showHint");
 
 
-});
+// });
