@@ -4,7 +4,7 @@ body {
     margin:0;
 
 
-    height:100vh;
+    min-height:100vh;
 
 
     display:flex;
@@ -24,11 +24,13 @@ body {
     );
 
 
+    background-attachment:fixed;
+
 
     font-family:Georgia, serif;
 
 
-    overflow:hidden;
+    overflow-x:hidden;
 
 
 }
@@ -551,5 +553,44 @@ button:disabled {
 
     text-align:left;
 
+
+}
+
+@media (max-width:600px) {
+
+
+    body {
+
+        align-items:flex-start;
+
+        padding-top:80px;
+
+        overflow-y:auto;
+
+        background-attachment:fixed;
+
+    }
+
+
+
+    .letter {
+
+
+        max-height:70vh;
+
+        overflow-y:auto;
+
+
+    }
+
+
+
+    .showLetter {
+
+
+        transform:translate(-50%, -180px);
+
+
+    }
 
 }
