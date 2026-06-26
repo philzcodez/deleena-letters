@@ -24,6 +24,7 @@ const letters = [
 
 I hope you had an AMAZING DAY Babe
 You mean so so so SO much to me.
+
 Thank you for being the amazing person you are.
 Thank you for being my person.
 
