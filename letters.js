@@ -52,8 +52,7 @@ I love you to the edge of the universe and beyond
     (P.s. I really really loved the good morning message you sent to me on insta, it made me really really happy)
     
     Forever yours,
-    - Your Malysh
-    `
+    - Your Malysh`
   },
 ];
 
