@@ -53,6 +53,30 @@ I love you to the edge of the universe and beyond
     Forever yours,
     - Your Malysh`
   },
+  {
+    date:"2026-06-27",
+    message: `Moy Dorogov,
+  
+    GOOOOOOODMOOOORNING. I hope you slept well my love!
+    I really enjoyed sharing things about our religions yesterday
+    
+    It really made me feel even closer to you, and I love learning new things about you.
+    
+    I want you to know that I love you SO SO SOOO MUCH!
+    You make me so happy, so comfy in my own skin, in a room of 8 billion people, I would always choose you
+    
+    I hope today comes easy to you baby, and that you have the best day ever.
+    I love you so very much, and I want you to know that I'm always gonna be there for you.
+    
+    Yesterday when you complained about your makeup, I want you to know that whether with or without it, you'll always be my beautiful girl.
+    Having or not having it doesn't change how I see you, the most kindest and prettiest girl I've ever seen.
+    
+    You will always be my Mrs. Out of My League.
+    Ya Leblu Teba
+    
+    Forever yours,
+    - Your Malysh`
+  },
 ];
 
 /*
