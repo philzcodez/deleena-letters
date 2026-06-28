@@ -77,6 +77,34 @@ I love you to the edge of the universe and beyond
     Forever yours,
     - Your Malysh`
   },
+  {
+    date:"2026-06-28",
+    message: `Mrs. Out of My League,
+    
+    RAHHHHHHHHHH
+    
+    Hey baby, I hope your day is going great so far!
+    I really liked the little lunch date we had and watching A Series of Unfortunate Events!
+
+    I'm also really happy that you like the website I made for you!!
+    I really worked hard on it and you have no idea how much it means to hear you like it.
+
+    Thank you so much last night for being there for me, it really means a lot.
+    I wish you knew just how much it means when you re-assure me.
+    It means so so so much to me, so thank you so much.
+
+    I wanna let you know, because you asked yesterday, that no baby, I have not lost feelings.
+    Im never gonna lose feelings, I told you baby that each day I wake up I fall in love with you more and more.
+    I mean every word baby, I pinky promise.
+
+    I love you more than words could ever say, (so much that if I injected you with it I think you'd explode :3)
+    You are my life, my sunshine, my everything.
+    
+    I love you so so SO much!
+
+    FOREVER Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
@@ -88,4 +116,3 @@ Example letter:
 },
 
  */
-
