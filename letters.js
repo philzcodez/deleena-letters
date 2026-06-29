@@ -105,6 +105,25 @@ I love you to the edge of the universe and beyond
     FOREVER Yours,
     - Your Malysh`
   },
+  {
+    date:"2026-06-29",
+    message: `HELLLLOOOOOO SAILOOORRRR!
+    
+    Hey baby, I hope you have a great day today and everything comes so easy for you.
+    I know i've been asking for so much reassurance lately, and I'm so so sorry.
+
+    I haven't been feeling the best, and thank you so much for giving me that reassurance.
+    Im really really sorry if I've been too much recently, you can always tell me if I have.
+    
+    Thank you so SO much for everything you do for me, it means a lot and im really appreciative of it. I love you very much.
+    
+    Thank you for reading these letters, it really means a lot that you do.
+
+    I love you!
+
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
