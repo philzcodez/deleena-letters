@@ -124,6 +124,38 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date:"2026-06-30",
+    message: `Prevyet Moy Dorogov,
+    
+    (That's how you type "hi" in russian)
+    BUTTTT HELLLLLOOO SAILOR
+    
+    YOU LOOK SO HOT LIKE OHHHH MY, THATS MY MY MY PRETTY GIRL!
+    I hope you had fun at the mall today baby, I really liked the shopping haul you gave me.
+    
+    And I also really liked the goodmorning message you sent to me! You have no idea how happy it makes me when you call me your sweet boy.
+    (Please do it more often, I really like it)
+    
+    I also hope you enjoy the photos I sent to you ;)! I tried to look my best in them.
+    
+    Im so glad that I make you feel safe and comfortable, I'm still trying to be the best person I can be for you.
+    So thank you for giving me reassurance, it means a lot. And I want you to know I'm always going to be here for you.
+    
+    I hope we get to call later tonight when I get back from training, the idea of an ice cream date while watching our show came into my mind this morning.
+    And I would really like to do that with you, but its okay if you can't call!
+    
+    I hope the rest of today comes easy to you, and that you have a great time with Miss. Mia!
+    (tell her I say hi btw, she DEFINETLY has no clue who I am, im like some white cracker to her ... but still say hi for me please)
+    
+    I don't know when you'll read this letter but Im just letting you know I'm going to training at 6:30 today 
+    (I know im surprised too that he didnt bail out)
+    
+    I love you more than words could ever say, to the edge of the universe and beyond my sweet girl.
+
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
