@@ -156,6 +156,34 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date:"2026-07-01",
+    message: `Hey babyy!
+    
+    Prevyet Moy Dorogov, I hope your day is going GREEEEEAT today!
+    I love you so so very much, and I miss you deeply!
+    
+    I hope we get to call soon! Im so so sorry today got so heavy for me.
+
+    I'm feeling much much better than yesterday, I pinky promise I will be okay; it was just something I ate
+    
+    I wish you could've seen me train, I paired up with this beginner and I helped him to improve! He was funny, some 6th grader.
+    
+    I still made him work but holy moly my technique was on fire!
+    
+    I was also playing around with my walkmans radio and eye without a face came on and I thought of you.
+    
+    I can just picture us dancing to that song, and man is it magical!
+    
+    My drivers ed teacher sucks but its okay, cuz the stuff I learn here I can use to pass my drivers test and then head down to Ozone Park
+    
+    I love you so so SO much
+    
+    (P.s. I really like when you try your best to speak russian, its really sweet, and also when you call me nicknames)
+
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
