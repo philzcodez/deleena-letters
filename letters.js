@@ -184,6 +184,27 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-02",
+    message: `Hellloo Mrs. Out of My League!
+    
+    Hi baby! I hope youre having a great day, and I hope you enjoyed watching Obsession with your friend!
+    
+    I really wished you called me back like you pinky promised when you're phone glitched out, but its okay, you probably forgot.
+    
+    I just wanted to tell you how much I loved you (hint: its a lot)! Please let me know how that movie is, I was planning on watching it.
+    
+    And maybe if you're down we can watch it together, I would really like that, but its okay if you dont want to. Its probably a dumb idea to make you sit through a movie you already watched.
+    
+    But hey, maybe Series of Unfortunate Events later?? I know i've been asking to watch it with you so much and its okay when we dont get to. Dont worry I would never EVER watch it without you.
+    
+    I really really hope you read these letters, I mean every word in them.
+    
+    I love you so much Deleena
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
