@@ -214,7 +214,8 @@ I love you to the edge of the universe and beyond
     
     Please try to stay inside and drink water!! Its insanely hot out this week. Please stay safe baby!
     
-    I miss you soooooooooooooooooooooooooooooooooooooooo much! Please call me, I miss your voice and seeing you're beautiful face.
+    I miss you soooooooooooooooooooooo
+    oooooooooooooooooo much! Please call me, I miss your voice and seeing you're beautiful face.
     I miss how you call me your sweet boy and your malysh over call, and how you try your best to speak russian to me.
     
     Dont worry about last night baby, its okay that you fell asleep. Im glad you got some rest babe.
