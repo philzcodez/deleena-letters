@@ -205,6 +205,32 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-03",
+    message: `HELLLLLLLO SAILOR!!
+    
+    Hi baby, I hope your day is going ggggggggreeeeat! (get it like the frosted flakes tiger)
+    I hope today comes easy to you baby, and that you have a nice, relaxing time at home!
+    
+    Please try to stay inside and drink water!! Its insanely hot out this week. Please stay safe baby!
+    
+    I miss you soooooooooooooooooooooooooooooooooooooooo much! Please call me, I miss your voice and seeing you're beautiful face.
+    I miss how you call me your sweet boy and your malysh over call, and how you try your best to speak russian to me.
+    
+    Dont worry about last night baby, its okay that you fell asleep. Im glad you got some rest babe.
+    I hope today comes easy to you and that its the BESSST DAYYYY EVEEEEERRRR (besssst dayyy everrrr ~~!)
+    
+    I really hope you read these messages soon baby! I love you more than words could ever put together!
+    
+    I was thinking that maybe when you get your camera, maybe we could go on a date and have a photo competition! I could teach you some things, we take photos of each other. I would reallly like it, but its okay if you dont want to do that!
+    
+    Oh oh I'm halfway done with my AP lang summer work (I finished the articles), now comes the easiest part of just reading a book! I chose "All Quiet Along the Western Front", ... if you wanted me to read it to you (i would be more than happy to!)
+    
+    I love you to the edge of the universe and beyond my sweet girl! I hope we get to call today!
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
