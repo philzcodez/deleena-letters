@@ -232,6 +232,23 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-04",
+    message: `Hey baby!!
+    
+    Hope today goes well for you my love! Please do respond to my messages, I miss you a lot.
+    
+    I really really miss you, so please don't leave me on delivered for hours, I'm begging.
+    
+    Please let me know if you read these letters, I really hope you do
+    
+    I hope we get to call later today!!
+    
+    I love you to the edge of the universe and beyond 
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
