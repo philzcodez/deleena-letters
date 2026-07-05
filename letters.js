@@ -249,6 +249,25 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-05",
+    message: `HELLLLLO SAILOR!
+    
+    Goodmorning baby, I hope you had a wonderful Fourth of July yesterday!
+    I really liked that we slept on call together, and that I was able to read to you!
+    
+    I want you to know that regardless schizophrenia or not, I love you the same with and without it.
+    You are never a burden to me baby, I am always here for you!
+    
+    I love you more than words could ever say, I hope you have a wonderful day!
+    
+    (BARS)
+    
+    I love you so much moy Dorogov
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
