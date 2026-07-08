@@ -308,6 +308,23 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-08",
+    message: `HIII BABY!!
+    
+    Hi my love, I hope you have the most amazing day today! Im so sorry that you got your period baby im here for you!!
+    
+    Im sorry for not being as energetic when you called during my lesson baby, I really was listening to your pokemon cards story!
+    
+    I think its so cool that you have so many cards, and that even though some are fake they are still very cool baby!
+    
+    I hope you enjoy the cards you'll be getting tomorrow!! Call me when you do!
+    
+    I love you so much baby!
+    
+    Forever Yours,
+    - Your Malysh`
+  }
 ];
 
 /*
