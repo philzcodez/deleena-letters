@@ -324,6 +324,40 @@ I love you to the edge of the universe and beyond
     
     Forever Yours,
     - Your Malysh`
+  },
+  {
+    date: "2026-07-09",
+    message: `HELLLOOO SAILOR!!
+    
+    Hi baby!! I hope your day goes great my love.
+    
+    Opening Pokémon packs together was AMAAAAAZING!!, I really had a lot of fun.
+    
+    We should definitely do it again sometime soon!!!
+    
+    I love you SOOOOOO much!!
+    
+    Forever Yours,
+    - Your Malysh`
+  },
+  {
+    date: "2026-07-10",
+    message: `HELLLLLOOOOOO SAILOR!!
+    
+    Hiiiiiiiii Moy Dorogov!!!!!
+    
+    I hope today goes amazing for you and you have a LOVELY DAY!! RAHHHH
+    
+    I'm extremely sorry if I said something wrong baby, I'm not upset we can't go watch it together!! I wish we could but it's okay!!
+    
+    This just means we get to pirate it and watch it on call!!
+    
+    I really hope we can do that!!
+    
+    I love you so so so much
+    
+    Forever Yours,
+    - Your Malysh`
   }
 ];
 
