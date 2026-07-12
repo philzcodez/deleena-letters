@@ -358,7 +358,30 @@ I love you to the edge of the universe and beyond
     
     Forever Yours,
     - Your Malysh`
-  }
+  },
+  {
+    date: "2026-07-11",
+    message: `HIIIII BABE!!
+    
+    Hey moy Dorogov, I hope you had an AMAZING DAY today baby!!
+    
+    Thank you so much for being there for me because of my dad, it really meant a lot.
+    
+    And it meant even more when you checked in to see how I was doing with my dad.
+    
+    I want you to know that you are EXTREMELY TALENTED LIKE HELLO??
+    
+    Ah I am so so proud of you, beyond proud, baby words cannot put into scope the pride I have for you!
+    
+    I am so proud to see the person you are becoming, and even more proud that I get to be yours.
+    
+    I love you so SO SO MUCH!
+    
+    (P.S. Yes I tell everyone how cool you are and how proud I am of you)
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
