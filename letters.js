@@ -382,6 +382,26 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-12",
+    message: `HELLLLLOOOOO SAILOR!!
+    
+    Hi baby, I hope today went AMAZING for you!!!
+    
+    I know you're on, I think, your fourth day of your period baby. Just checking in:
+    
+    Are you feeling better?
+    
+    How are your cramps baby?
+    
+    I know right now your period is being hard on you baby so don't worry about you not picking up the phone. It's okay baby I understand!!
+    
+    I love you to the edge of the universe and beyond!
+    Feel better moy Dorogov!!
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
