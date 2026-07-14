@@ -423,6 +423,25 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-14",
+    message: `HI BABE!!
+    
+    Hey Moy Dorogov, I hope your day is going well
+    
+    I know today might be rough on you baby, I'm so sorry. So when you get home don't even worry about calling, it's okay, take some time for yourself this evening
+    
+    You deserve some you time baby!!
+    
+    I got film today for my camera!! Kind of expensive but so so SO worth it
+    
+    I am so gonna bring this camera on our family vacations and take photos of us and Finn and Marceline
+    
+    I love you so so SO much!!
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
