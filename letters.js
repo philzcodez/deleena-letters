@@ -402,6 +402,27 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date: "2026-07-13",
+    message: `WAAAAZZZZAAAAAAP!
+    
+    Hey baby, I hope youre having a great day today!
+    
+    Thank you for letting me nerd out about my new camera!! I really wanted to show you the shoes I got but its okay, I understand!
+    
+    I hope you're not busy later tonight, because I really really wanna call and talk about random stuff. Maybe even doomscroll!! If you're down for it, its okay if youre not!
+
+    Please do check your texts from me more often baby, I get worried when you dont respond for hours.
+    
+    I love you so much!
+    
+    I cant wait for my first photo ever on that camera to be of you!
+
+    (P.S., Don't worry about not calling me back like you said u would before baby, its okay I understand, you probably got busy or forget)
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
