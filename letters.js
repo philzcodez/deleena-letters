@@ -520,11 +520,46 @@ I love you to the edge of the universe and beyond
     
     Forever Yours,
     - Your Malysh`
-  }
+  },
+  {
+    date:"2026-07-19",
+    message:`WAZZZZAPPP BABY!!
+    
+    Hi baby, I hope you're having an AMAZING DAY!!
+    
+    Doing the color date with you was so much fun!!
+    
+    We should really do it again sometime soon!
+    
+    I was so impressed and so proud of what you were able to do, you are so talented!
+    
+    I love you eternally!
+    
+    Forever Yours,
+    - Your Malysh`
+  },
+  {
+    date:"2026-07-20",
+    message:`HELLLOOOO SAILOR!!
+    
+    Hi baby! I hope your day went well, despite the scare earlier
+    
+    Don't worry baby everything is going to be okay, I'm here!
+    
+    I am still so amazed by the photos you took, you are so talented!
+    
+    And that outfit AWOOOOOGA!! I can't wait to have a wallet collage of you!
+    
+    I love you eternally
+    You're my hero
+    
+    Foreve Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
-Example letter:
+ Example letter:
 
 {
     date:"YYYY-MM-DD",
