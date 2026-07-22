@@ -553,7 +553,48 @@ I love you to the edge of the universe and beyond
     I love you eternally
     You're my hero
     
-    Foreve Yours,
+    Forever Yours,
+    - Your Malysh`
+  },
+  {
+    date:"2026-07-21",
+    message:`WAAZZZZAAAAAAAPPPPPP BABY!!
+
+    HI MY LOVE!!! I miss you SOOOOOOOOOO much!
+    I hope your day goes amazing today! And everything comes easy to you!
+
+    You deserve so much happiness and Im so glad I get to bring that into your life.
+
+    You are a major inspiration in my life and I love and cherish you deeply!
+
+    I love and support all that you do!
+
+    I love you eternally
+    
+    Forever Yours,
+    - Your Malysh`
+  },
+  {
+    date:"2026-07-22",
+    message:`HELLLOOOOOO SAILOR!
+
+    Hi baby! I know today will be tough on you, dont worry its not your fault my love, im here if you need me!
+
+    Im so sorry that subway discontinued those cookies, dont worry Ill make sure Israel makes them make more!
+
+    I love the call we had earlier, maybe we'll call later today!! (You really had me beat with those ragebait questions, but im happy you won baby)
+
+    Yes I am your dork, always your dork!
+
+    I trust you to tell that "family friend" you are in a relationship and you tell him off if he flirts with you. Please text me if he does!
+
+    I am so proud of you!
+
+    I love you eternally
+
+    HAPPY 5 MONTHS WOOOOO
+    
+    Forever Yours,
     - Your Malysh`
   },
 ];
