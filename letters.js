@@ -597,6 +597,57 @@ I love you to the edge of the universe and beyond
     Forever Yours,
     - Your Malysh`
   },
+  {
+    date:"2026-07-23",
+    message: `WAAAZZZZZAAAAP BABYYYY!!!
+    
+    Hello my love, I hope you are having a great day!!
+    
+    I love you so much baby and I am so impressed by all the hard work you do!
+    
+    I want you to know that you are doing great and you are enough.
+    
+    I couldn't be any less prouder of you baby, you are so so talented!
+    
+    I love you eternally
+    
+    Forever Yours,
+    - Your Malysh`
+  },
+  {
+    date:"2026-07-24",
+    message: `HELLOOOO SAILORRR!!
+    
+    Hi baby!!! I hope you are doing amazing and are having a great day!!
+    
+    It really means a lot that you like the ring I picked out!
+    
+    You deserve it so much and so so much more!
+    
+    I am so glad it's you that I get to give that promise ring to! You will be the first and last person who ever gets one from me!
+    
+    I love you so so so much Deleena! You are so so special to me
+    
+    I love you eternally
+    
+    Forever Yours,
+    - Your Malysh`
+  },
+  {
+    date:"2026-07-25",
+    message: `HELLOOO SAILOOORR!!
+    
+    Hi baby!! I know today was very long and hard for you, but rest now my love. it's okay I'm here!
+    
+    I love you so so much, if you need anything baby don't be scared to ask!
+    
+    GUESS WHOS PROMISE RING COMES IN 2 DAYS OHHH YEAHH!!
+    
+    I love you eternally
+    
+    Forever Yours,
+    - Your Malysh`
+  },
 ];
 
 /*
